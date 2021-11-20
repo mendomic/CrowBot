@@ -1,2 +1,3 @@
 # CrowBot
-Discord moderation bot with specific features to the University of Washington Bothell campus
+Discord Bot written in [D++](https://github.com/brainboxdotcc/DPP) in development for University of Washington Bothell students.
+Made by UWBOThell.
